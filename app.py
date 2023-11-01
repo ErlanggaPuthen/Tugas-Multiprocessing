@@ -1,4 +1,4 @@
-import asyncio //test
+import asyncio #test
 import time
 from random import randint
 
